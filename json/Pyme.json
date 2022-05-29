@@ -1,0 +1,34 @@
+{
+    "Pyme": [
+        {
+            "name": "Barberia Cardona",
+            "address": "CALLE. TEOTIHUACAN 18, HIPODROMO, CUAUHTEMOC, DF, C.P.06100",
+            "employees": [
+                "62658ec5f945bc8ce04d5bab",
+                "62658f7df945bc8ce04d5bac"
+            ],
+            "business_line": "Estética",
+            "custom_data_form": {},
+            "image_url": "https://www.machobeardcompany.com/blog/wp-content/uploads/2016/05/13636082_l-e1466675062716.jpg"
+        },{
+            "name": "Veterinaria del ave",
+            "address": "CLL DOCTOR LICEAGA 113, FICT LOCALITY, FICTICIO, MEX, C.P.06700",
+            "employees": [
+                "6265ad86d6751b697338717e", 
+                "6265adaed6751b697338717f"
+            ],
+            "business_line": "Veterinaria",
+            "custom_data_form": {},
+            "image_url": "https://wakyma.com/wakymavets/blog/wp-content/uploads/2017/08/7-Consejos-para-mejorar-el-rendimiento-de-ventas-de-tu-Cli%CC%81nica-Veterinaria.jpg"
+        },{
+            "name": "Clinica general",
+            "address": "CLLE MIXTECAS MZ 107 LT 7, AJUSCO, MEXICO, DF, C.P.04300",
+            "employees": [
+                "6265adaed6751b697338717f"
+            ],
+            "business_line": "Salud",
+            "custom_data_form": {},
+            "image_url": "https://corrupcionaldia.com/wp-content/uploads/2020/05/Clinica-General-del-norte.jpg"
+        }
+    ]
+}

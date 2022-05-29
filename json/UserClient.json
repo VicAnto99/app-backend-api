@@ -1,0 +1,43 @@
+{
+    "UserClient": [
+        {
+            "name": "Monica",
+            "last_name": "Lara",
+            "phone_number": "+52 1 55 3994 2282",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t39.30808-1/269910619_2112658598910424_7974481347967552963_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHEiJENvnLCcC3ZOubujt83uzjwdABp7u27OPB0AGnu7TQZQkStVfrv4_FdQpaYl9LDnzj32ixEj2PpX8WcoCAK&_nc_ohc=LKhej6qNd8QAX_L_zIK&_nc_ht=scontent.fmex27-1.fna&oh=00_AT-U3QX4MwigNKE-lUF_WY1zX3mY9t4Y__qPAywc-2oBfg&oe=6269CE0D",
+            "email": "moni@hotmail.com",
+            "uid": 0,
+            "apppointments": [
+                "6265bbf48c88c823cc397819",
+                "6265bd0c8c88c823cc39781a"
+            ],
+            "calendar": {}
+        },{
+            "name": "Aldo",
+            "last_name": "Ortiz",
+            "phone_number": "+52 1 55 9108 2066",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.6435-1/148999956_10218172996891934_6821883155265029536_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeFpIilEMjXeF4GViBEFybGkJevIbr785H8l68huvvzkfzn5P026BItMIcmjpJKjun7KsOjuXpnwOw5yzj6A7msj&_nc_ohc=ERYiKz-JygcAX87pxtN&tn=rlQt0U_sb6v6AybO&_nc_ht=scontent.fmex27-1.fna&oh=00_AT_-T9c0KezNR8g-mtMbfR-_-JMjmvMC27Aq-KrDClu3Dw&oe=628B6969",
+            "email": "aldo@hotmail.com",
+            "uid": 1,
+            "apppointments": [
+                "6265bebe8c88c823cc39781c"
+            ],
+            "calendar": {
+
+            }
+        },{
+            "name": "Lia",
+            "last_name": "Diaz",
+            "phone_number": "+52 1 55 3984 4109",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.18169-1/29542387_1873312066036105_2007097085030072084_n.jpg?stp=dst-jpg_p200x200&_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGuoM5V4Gk0mcMIa_i1LWsRA8PLGQh8x14Dw8sZCHzHXuXinODOuro6ZuhiMNTf0V7jyECN7loRzMrsmaSBtzB0&_nc_ohc=V4PsiENxFUQAX9kDg4O&tn=rlQt0U_sb6v6AybO&_nc_ht=scontent.fmex27-1.fna&oh=00_AT82rS5uezd6qSvdjVks21roxKx8nG4MRrO8qiVnbY2riw&oe=628B5D2A",
+            "email": "lia@hotmail.com",
+            "uid": 2,
+            "apppointments": [
+                "6265bd8c8c88c823cc39781b"
+            ],
+            "calendar": {
+
+            }
+        }
+    ]
+}

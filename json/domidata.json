@@ -1,0 +1,168 @@
+{
+    "Professionist": [
+        {
+            "name": "Raul",
+            "last_name": "Cardona",
+            "phone_number": "+52 1 55 3149 8386",
+            "profile_image": "https://scontent.fmex23-1.fna.fbcdn.net/v/t1.6435-9/107819117_3261579247234498_750580050870648136_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHEbLqeptsR_q63RnCOTyXcQFahymmVP5dAVqHKaZU_lxGfMuEDNXtXggfoMAD0kIdPwfQo-4FJ-JWrmJCLXeld&_nc_ohc=Gl0XoawthqgAX_aUqSW&_nc_ht=scontent.fmex23-1.fna&oh=00_AT_JiE_dPuFAdBgZ2aKw-N0Wh-oPKYwwrxsJZs_nZlejmw&oe=628C5A44",
+            "email": "raul@hotmail.com",
+            "calendar": {}
+        },{
+            "name": "Manuel",
+            "last_name": "Ortiz",
+            "phone_number": "+52 1 55 2535 2157",
+            "profile_image": "https://scontent.fmex23-1.fna.fbcdn.net/v/t1.6435-1/30688623_124582025062303_6397351644203319296_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeH3AI9Wu93SuP3UTEuAXrLkmahNvZy_95yZqE29nL_3nIKotloMKt4-Dm_VwlL0KpUQSgV312vQ2lUFBbAcB8VZ&_nc_ohc=xeVBupCXgykAX_FIrEv&_nc_ht=scontent.fmex23-1.fna&oh=00_AT-WScyRiFEsnS9chtr0vokivGtXIR4L3TrHy2CVNecD4g&oe=628B4EF1",
+            "email": "manuel@hotmail.com",
+            "calendar": {}
+        },{
+            "name": "Omar",
+            "last_name": "Robledo",
+            "phone_number": "+52 1 55 3807 5392",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.6435-1/118321496_3294337507309675_3767924180879726991_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeFdIzk4HJlT30Z1eV_4LRBZIzeno5s_eXojN6ejmz95eg--WpjvOi3WsM4qZ7F6KQbv0x0RS4elQ91zEtC1qZVf&_nc_ohc=VBe-FYAu3ZoAX-UgZ9I&_nc_ht=scontent.fmex27-1.fna&oh=00_AT-mKevkNEdLEVSfTTZpX8eX7k2_t3uzJ9rTSaWqO1SePg&oe=628C3B43",
+            "email": "omar@hotmail.com",
+            "calendar": {}
+        },{
+            "name": "Diego",
+            "last_name": "Levy",
+            "phone_number": "+52 1 729 235 4747",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.6435-1/157195694_3984482428278356_3816948673754117837_n.jpg?stp=c20.23.178.178a_dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEFZC8jw7zG8gx6CDtJcVAvY06Hh-Kd1R5jToeH4p3VHlE7clwGRYn6CG1CP0BlpO_MXfwEBzTY-DitvXsJmXJi&_nc_ohc=Jsn_3VRHhFcAX-hjUr7&_nc_ht=scontent.fmex27-1.fna&oh=00_AT8w1ed400vQBVxX25rWf21mWv5xWIZg5o0eEnKG0EcgPw&oe=628AB0D1",
+            "email": "diego@hotmail.com",
+            "calendar": {}
+        },{
+            "name": "Victor",
+            "last_name": "Godínez",
+            "phone_number": "+52 55 4361 3366",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.6435-1/122071796_3762587633793548_1555745230964038414_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeE9-oFyF6-AwAKV8nNKeObn7oXJhrkvfRLuhcmGuS99EpO5YYndCqFncze3MQcQ07McmO4fC3TxFLgfWOQXzYnA&_nc_ohc=qKtht9-7jBQAX9Yn3sQ&_nc_ht=scontent.fmex27-1.fna&oh=00_AT_zc8qaqamwb7Q5duwseVJS6dwZpB20021T78KwM8Ja4w&oe=628949C6",
+            "email": "victor@hotmail.com",
+            "calendar": {}
+        }
+    ],
+    "Pyme": [
+        {
+            "name": "Barberia Cardona",
+            "address": "CALLE. TEOTIHUACAN 18, HIPODROMO, CUAUHTEMOC, DF, C.P.06100",
+            "employees": [
+                "62658ec5f945bc8ce04d5bab",
+                "62658f7df945bc8ce04d5bac"
+            ],
+            "business_line": "Estética",
+            "custom_data_form": {},
+            "image_url": "https://www.machobeardcompany.com/blog/wp-content/uploads/2016/05/13636082_l-e1466675062716.jpg"
+        },{
+            "name": "Veterinaria del ave",
+            "address": "CLL DOCTOR LICEAGA 113, FICT LOCALITY, FICTICIO, MEX, C.P.06700",
+            "employees": [
+                "6265ad86d6751b697338717e", 
+                "6265adaed6751b697338717f"
+            ],
+            "business_line": "Veterinaria",
+            "custom_data_form": {},
+            "image_url": "https://wakyma.com/wakymavets/blog/wp-content/uploads/2017/08/7-Consejos-para-mejorar-el-rendimiento-de-ventas-de-tu-Cli%CC%81nica-Veterinaria.jpg"
+        },{
+            "name": "Clinica general",
+            "address": "CLLE MIXTECAS MZ 107 LT 7, AJUSCO, MEXICO, DF, C.P.04300",
+            "employees": [
+                "6265adaed6751b697338717f"
+            ],
+            "business_line": "Salud",
+            "custom_data_form": {},
+            "image_url": "https://corrupcionaldia.com/wp-content/uploads/2020/05/Clinica-General-del-norte.jpg"
+        }
+    ],
+    "Appointment": [
+        {
+            "date": "2022-04-30T16:02:00.000+00:00",
+            "reason": "Corte de pelo",
+            "pyme": "6265b0b6c569995785d7bb09",
+            "completed": true,
+            "data": {},
+            "responsable": "62658ec5f945bc8ce04d5bab"
+        },{
+            "date": "2022-05-01T16:02:00.000+00:00",
+            "reason": "Estornuda mucho mi gato El niño y quiero saber que tiene.",
+            "pyme": "Veterinaria del ave",
+            "completed": false,
+            "data": {},
+            "responsable": "6265ad86d6751b697338717e"
+        },{
+            "date": "2022-05-11T16:02:00.000+00:00",
+            "reason": "Quisiera hacer el test de COVID-19",
+            "pyme": "6265b480c569995785d7bb0b",
+            "completed": true,
+            "data": {},
+            "responsable": "6265adb4d6751b6973387180"
+        },{
+            "date": "2022-05-15T16:02:00.000+00:00",
+            "reason": "Corte mensual de barba y pelo",
+            "pyme": "6265b0b6c569995785d7bb09",
+            "completed": true,
+            "data": {},
+            "responsable": "62658f7df945bc8ce04d5bac"
+        }
+    ],
+    "BusinessLine": [
+        {
+            "name": "Estética",
+            "description": "Corte de cabello, barba, etc.",
+            "pymes": [
+                "6265b0b6c569995785d7bb09"
+            ],
+            "image_description": "https://www.machobeardcompany.com/blog/wp-content/uploads/2016/05/13636082_l-e1466675062716.jpg"
+        },{
+            "name": "Veterinaria",
+            "description": "Ayuda a tus mascotas a sentirse mejor",
+            "pymes": [
+                "6265b18dc569995785d7bb0a"
+            ],
+            "image_description": "https://wakyma.com/wakymavets/blog/wp-content/uploads/2017/08/7-Consejos-para-mejorar-el-rendimiento-de-ventas-de-tu-Cli%CC%81nica-Veterinaria.jpg"
+        },{
+            "name": "Salud",
+            "description": "Cuidate y cuidas a todos",
+            "pymes": [
+                "6265b480c569995785d7bb0b"
+            ],
+            "image_description": "https://corrupcionaldia.com/wp-content/uploads/2020/05/Clinica-General-del-norte.jpg"
+        }
+    ],
+    "UserClient": [
+        {
+            "name": "Monica",
+            "last_name": "Lara",
+            "phone_number": "+52 1 55 3994 2282",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t39.30808-1/269910619_2112658598910424_7974481347967552963_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHEiJENvnLCcC3ZOubujt83uzjwdABp7u27OPB0AGnu7TQZQkStVfrv4_FdQpaYl9LDnzj32ixEj2PpX8WcoCAK&_nc_ohc=LKhej6qNd8QAX_L_zIK&_nc_ht=scontent.fmex27-1.fna&oh=00_AT-U3QX4MwigNKE-lUF_WY1zX3mY9t4Y__qPAywc-2oBfg&oe=6269CE0D",
+            "email": "moni@hotmail.com",
+            "uid": 0,
+            "apppointments": [
+                "6265bbf48c88c823cc397819",
+                "6265bd0c8c88c823cc39781a"
+            ],
+            "calendar": {}
+        },{
+            "name": "Aldo",
+            "last_name": "Ortiz",
+            "phone_number": "+52 1 55 9108 2066",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.6435-1/148999956_10218172996891934_6821883155265029536_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeFpIilEMjXeF4GViBEFybGkJevIbr785H8l68huvvzkfzn5P026BItMIcmjpJKjun7KsOjuXpnwOw5yzj6A7msj&_nc_ohc=ERYiKz-JygcAX87pxtN&tn=rlQt0U_sb6v6AybO&_nc_ht=scontent.fmex27-1.fna&oh=00_AT_-T9c0KezNR8g-mtMbfR-_-JMjmvMC27Aq-KrDClu3Dw&oe=628B6969",
+            "email": "aldo@hotmail.com",
+            "uid": 1,
+            "apppointments": [
+                "6265bebe8c88c823cc39781c"
+            ],
+            "calendar": {
+
+            }
+        },{
+            "name": "Lia",
+            "last_name": "Diaz",
+            "phone_number": "+52 1 55 3984 4109",
+            "profile_image": "https://scontent.fmex27-1.fna.fbcdn.net/v/t1.18169-1/29542387_1873312066036105_2007097085030072084_n.jpg?stp=dst-jpg_p200x200&_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGuoM5V4Gk0mcMIa_i1LWsRA8PLGQh8x14Dw8sZCHzHXuXinODOuro6ZuhiMNTf0V7jyECN7loRzMrsmaSBtzB0&_nc_ohc=V4PsiENxFUQAX9kDg4O&tn=rlQt0U_sb6v6AybO&_nc_ht=scontent.fmex27-1.fna&oh=00_AT82rS5uezd6qSvdjVks21roxKx8nG4MRrO8qiVnbY2riw&oe=628B5D2A",
+            "email": "lia@hotmail.com",
+            "uid": 2,
+            "apppointments": [
+                "6265bd8c8c88c823cc39781b"
+            ],
+            "calendar": {
+
+            }
+        }
+    ]
+}

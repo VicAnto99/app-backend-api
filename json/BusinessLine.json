@@ -1,0 +1,26 @@
+{
+    "BusinessLine": [
+        {
+            "name": "Estética",
+            "description": "Corte de cabello, barba, etc.",
+            "pymes": [
+                "6265b0b6c569995785d7bb09"
+            ],
+            "image_description": "https://www.machobeardcompany.com/blog/wp-content/uploads/2016/05/13636082_l-e1466675062716.jpg"
+        },{
+            "name": "Veterinaria",
+            "description": "Ayuda a tus mascotas a sentirse mejor",
+            "pymes": [
+                "6265b18dc569995785d7bb0a"
+            ],
+            "image_description": "https://wakyma.com/wakymavets/blog/wp-content/uploads/2017/08/7-Consejos-para-mejorar-el-rendimiento-de-ventas-de-tu-Cli%CC%81nica-Veterinaria.jpg"
+        },{
+            "name": "Salud",
+            "description": "Cuidate y cuidas a todos",
+            "pymes": [
+                "6265b480c569995785d7bb0b"
+            ],
+            "image_description": "https://corrupcionaldia.com/wp-content/uploads/2020/05/Clinica-General-del-norte.jpg"
+        }
+    ]
+}

@@ -20,6 +20,7 @@ from pymongo import MongoClient
 import certifi
 
 import django_heroku
+import dj_database_url
 
 load_dotenv()
 

@@ -52,7 +52,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://reservame-appointments.herokuapp.com/']
+ALLOWED_HOSTS = ['reservame-appointments.herokuapp.com']
 
 
 # Application definition
@@ -194,7 +194,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'build/static')
 ]
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',

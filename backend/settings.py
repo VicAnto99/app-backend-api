@@ -69,7 +69,6 @@ INSTALLED_APPS = [
     'djoser',
     'reservame',
     'rest_framework_simplejwt.token_blacklist',
-
 ]
 
 MIDDLEWARE = [
@@ -91,7 +90,7 @@ ROOT_URLCONF = 'backend.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS':  [os.path.join(BASE_DIR, 'Templates')],
+        'DIRS':  [os.path.join(BASE_DIR, 'build')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -195,6 +194,7 @@ STATICFILES_DIRS = [
 ]
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+django_heroku.settings(locals())
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',

@@ -39,7 +39,7 @@ urlpatterns = [
     path('api/', include(router.urls)),
     path('auth/', include('djoser.urls')),
     path('auth/', include('djoser.urls.jwt')),
-    path('', TemplateView.as_view(template_name="index.html"))    
+    re_path('.*', TemplateView.as_view(template_name='index.html'))    
 ]
 
 #urlpatterns += [re_path(r'^.*', csrf_exempt(TemplateView.as_view(template_name='index.html')))]

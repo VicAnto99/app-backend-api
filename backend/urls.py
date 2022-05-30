@@ -38,9 +38,10 @@ urlpatterns = [
     path(r'reservame_admin/', reservame_site.urls),
     path('api/', include(router.urls)),
     path('auth/', include('djoser.urls')),
-    path('auth/', include('djoser.urls.jwt')),    
+    path('auth/', include('djoser.urls.jwt')),
+    path('', TemplateView.as_view(template_name="index.html"))    
 ]
 
-urlpatterns += [re_path(r'^.*', csrf_exempt(TemplateView.as_view(template_name='index.html')))]
+#urlpatterns += [re_path(r'^.*', csrf_exempt(TemplateView.as_view(template_name='index.html')))]
 
 
